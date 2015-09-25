@@ -7,7 +7,7 @@ namespace Biblioteca
 {
     public class Proyectos
     {
-        String algo;
+        
         private String nombreProyecto;
 
         public String NombreProyecto
